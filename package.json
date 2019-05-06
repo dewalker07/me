@@ -2,7 +2,9 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://dewalker07.github.io/me",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5",
@@ -11,6 +13,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -23,6 +27,5 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
