@@ -23,10 +23,10 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2><a href="!#">Web Developer at Athira Technologies</a> <span>2018-present</span></h2>
                         <p>Over 1+Years of extensive experience as a Front-End UI Developer with solid understanding of HTML 5, CSS 3, JavaScript and the latest libraries or frameworks built up on the JavaScript like React JS.
-                        • Professional understanding of System development life cycle (SDLC) as well as various phases such as Analysis Design, Development and Testing.
-                        • Extensive knowledge in Single Page Application (SPA) development.
-                        • Super good experience on React.JS framework/library.
-                        • Worked on React JS applications using different scripting languages like ECMAScript6.</p>
+                           Professional understanding of System development life cycle (SDLC) as well as various phases such as Analysis Design, Development and Testing.
+                           Extensive knowledge in Single Page Application (SPA) development.
+                           Super good experience on React.JS framework/library.
+                           Worked on React JS applications using different scripting languages like ECMAScript6.</p>
                       </div>
                     </div>
                   </article>
