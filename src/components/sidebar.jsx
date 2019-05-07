@@ -28,7 +28,11 @@ export default class Sidebar extends Component {
               <ul>
                 <li><a href="!#" target="blank"><i className="icon-facebook2" /></a></li>
                 <li><a href="!#" target="blank"><i className="icon-twitter2" /></a></li>
+<<<<<<< HEAD
                 <li><a href="!#" target="blank"><i className="icon-instagram" /></a></li>
+=======
+                <li><a href="!#" target="blank"><i className="icon-instagram" /></a></li> 
+>>>>>>> 79e51552be5b507bccc6626fc8ad0cedc3ebf458
                 <li><a href="!#" target="blank"><i className="icon-linkedin2" /></a></li>
                 <li><a href="!#" target="blank"><i className="icon-github"></i></a></li>
                 <li><a href="!#" target="blank"><i className="icon-blogger2"></i></a></li>
