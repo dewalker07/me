@@ -169,9 +169,28 @@ figure {
             -ms-transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
             -o-transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
             transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275); }
+            #colorlib-main-menu .icon-facebook2:hover {
+              color: #1a3e8d;
+            }
+            #colorlib-main-menu .icon-twitter2:hover {
+              color: #38A1F3;
+            }
+            #colorlib-main-menu .icon-instagram:hover {
+              color: #c1558b;
+            }
+            #colorlib-main-menu .icon-linkedin2:hover {
+              color: #0e76a8;
+            }
+            #colorlib-main-menu .icon-github:hover {
+              color: #211F1F;
+            }
+            #colorlib-main-menu .icon-blogger2:hover {
+              color: #ff5722;
+            }
           #colorlib-aside #colorlib-main-menu ul li a:hover {
             text-decoration: none;
-            color: black; }
+            /* color: black;  */
+          }
             #colorlib-aside #colorlib-main-menu ul li a:hover:after {
               visibility: visible;
               -webkit-transform: scaleX(1);
