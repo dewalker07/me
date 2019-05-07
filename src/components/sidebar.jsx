@@ -26,16 +26,12 @@ export default class Sidebar extends Component {
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="!#" target="blank"><i className="icon-facebook2" /></a></li>
-                <li><a href="!#" target="blank"><i className="icon-twitter2" /></a></li>
-<<<<<<< HEAD
-                <li><a href="!#" target="blank"><i className="icon-instagram" /></a></li>
-=======
-                <li><a href="!#" target="blank"><i className="icon-instagram" /></a></li> 
->>>>>>> 79e51552be5b507bccc6626fc8ad0cedc3ebf458
-                <li><a href="!#" target="blank"><i className="icon-linkedin2" /></a></li>
-                <li><a href="!#" target="blank"><i className="icon-github"></i></a></li>
-                <li><a href="!#" target="blank"><i className="icon-blogger2"></i></a></li>
+                <li><a href="https://www.facebook.com/diwakar.naidu.10" target="blank"><i className="icon-facebook2" /></a></li>
+                <li><a href="https://twitter.com/dabbara_naidu" target="blank"><i className="icon-twitter2" /></a></li>
+                <li><a href="https://www.instagram.com/de.walker.d/?hl=en" target="blank"><i className="icon-instagram" /></a></li>
+                <li><a href="https://ca.linkedin.com/in/diwakar-naidu-d-357bb217a" target="blank"><i className="icon-linkedin2" /></a></li>
+                <li><a href="https://github.com/dewalker07/me" target="blank"><i className="icon-github"></i></a></li>
+                <li><a href="https://medium.com/@ddn.dabbara" target="blank"><i className="icon-blogger2"></i></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">
