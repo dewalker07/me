@@ -10,6 +10,7 @@ export default class Sidebar extends Component {
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
               <h1 id="colorlib-logo"><a href="index.html">Diwakar Naidu Dabbara</a></h1>
+              <span className="position"><a href="!#">Web Developer</a> in Bengaluru</span>
               <span className="email"><i className="icon-mail"></i> ddn.dabbara@gmail.com</span>
               {/* <span className="number"><i className="icon-phone"></i> +91-886-600-5687</span> */}
             </div>
@@ -36,7 +37,11 @@ export default class Sidebar extends Component {
             </nav>
             <div className="colorlib-footer">
               <p><small>
-                 © 2019 by Diwakar <i className="icon-heart" aria-hidden="true" /> Design by colorlib 
+                 © 2019 by Diwakar All rights reserved |
+                 </small>
+              </p> 
+              <p><small>
+                 <i className="icon-heart" aria-hidden="true" /> Design by colorlib 
               </small></p>
             </div>
           </div>

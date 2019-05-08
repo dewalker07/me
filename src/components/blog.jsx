@@ -13,7 +13,7 @@ export default class Blog extends Component {
 					</div>
 				</div>
 				<div className="row">
-					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+					{/* <div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 					<div className="blog-entry">
 						<a href="blog.html" className="blog-img"><img src="images/blog-1.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
@@ -22,7 +22,7 @@ export default class Blog extends Component {
 							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 						</div>
 					</div>
-					</div>
+					</div> */}
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInRight">
 					<div className="blog-entry">
 						<a href="blog.html" className="blog-img"><img src="images/blog-2.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
