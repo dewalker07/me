@@ -85,8 +85,7 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>I am learning new things like DevOps to Build & Release Management, Deployment activities for software applications using CI/CD, GIT, Dockers.</p>
+                    <h3>Dev Ops</h3><p>DevOps is not just a story of tools and automation; it is much richer than that. DevOps is a people, process, and tools strategy.</p>
                 </div>
                 </div>
             </div>
