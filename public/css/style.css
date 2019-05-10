@@ -228,6 +228,9 @@ figure {
         margin: 0;
         display: inline;
         list-style: none; }
+        .icon-heart {
+          color: #fb0909cf;
+        }
         #colorlib-aside .colorlib-footer ul li a {
           color: rgba(255, 255, 255, 0.3);
           padding: 4px; }
