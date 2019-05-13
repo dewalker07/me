@@ -33,7 +33,7 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
-                        <i className="icon-h" />
+                        <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2><a href="!#">Graduation at JNTU Anantapur</a> <span>2011-2015</span></h2>
