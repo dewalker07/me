@@ -1211,7 +1211,7 @@ body.offcanvas {
   .btn.btn-md {
     padding: 8px 20px !important; }
   .btn.btn-lg {
-    padding: 18px 36px !important; }
+    padding: 8px 20px !important; }
   .btn:hover, .btn:active, .btn:focus {
     -webkit-box-shadow: none !important;
     box-shadow: none !important;
