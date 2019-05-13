@@ -29,7 +29,7 @@ export default class Blog extends Component {
 						<div className="desc">
 							<span><small>April 14, 2018 </small> | <small> Web Design </small> | <small> <i className="icon-bubble3" /> 4</small></span>
 							<h3><a href="blog.html">Wordpress for a Beginner</a></h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+							<p>WPBeginner is the largest WordPress resource site for WordPress Beginners with easy to understand WordPress tutorials for mastering the basics and beyond.</p>
 						</div>
 					</div>
 					</div>
@@ -39,7 +39,7 @@ export default class Blog extends Component {
 						<div className="desc">
 							<span><small>April 14, 2018 </small> | <small> Inspiration </small> | <small> <i className="icon-bubble3" /> 4</small></span>
 							<h3><a href="blog.html">Make website from scratch</a></h3>
-							<p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+							<p>Create websites using web development fundamentals like HTML5/CSS3 and Bootstrap to modify the structure and appearance of your sites. Bootstrap ...</p>
 						</div>
 					</div>
 					</div>
