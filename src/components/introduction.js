@@ -16,7 +16,7 @@ export default class Introduction extends Component {
                         <div className="desc">
                           <h1>Hi! <br />I'm Diwakar</h1>
                           <p><a className="btn btn-primary btn-learn" href="https://dewalker07.github.io/cv/" target="blank">
-                            <i className="icon-download4" /></a> <img src="../images/dwnld.gif" alt="CV" /></p>
+                            <i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
