@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I'm a Web Developer having 2+years of experience in designing User Interface applications and Proficient in developing webpages using HTML5.0, CSS3/4, JavaScript, Bootstrap4, ReactJS, AJAX and JSON. I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years.</p>
+                    <p>I'm a Web Developer having 2+years of experience in designing User Interface applications and Proficient in developing webpages using HTML5.0, CSS3/4, JavaScript, Bootstrap4, ReactJS, Wordpress CMS. I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years.</p>
                     <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore. </p>
                     </div>
                 </div>
@@ -27,7 +27,7 @@ export default class About extends Component {
                     <div className="col-md-3 animate-box" data-animate-effect="fadeInRight">
                         <div className="services color-2">
                             <span className="icon2"><i className="icon-bulb"></i></span>
-                            <h3>Wordpress</h3>
+                            <h3>Wordpress CMS</h3>
                         </div>
                     </div>
                     <div className="col-md-3 animate-box" data-animate-effect="fadeInTop">
@@ -64,7 +64,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience in designing User Interface applications and Proficient in developing webpages using HTML5.0, CSS3/4, JavaScript, jQuery, Bootstrap4, ReactJS, NodeJS, AJAX and JSON.</p>
+                    <p>I have experience in designing User Interface applications and Proficient in developing webpages using HTML5.0, CSS3/4, JavaScript, jQuery, Bootstrap4, ReactJS, Wordpress CMS.</p>
                 </div>
                 </div>
             </div>
@@ -85,7 +85,7 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3><p>DevOps is not just a story of tools and automation; it is much richer than that. DevOps is a people, process, and tools strategy.</p>
+                    <h3>SEO</h3><p>Search engine optimization is the process of increasing the quality and quantity of website traffic by increasing the visibility of a website or a web page to users of a web search engine</p>
                 </div>
                 </div>
             </div>
