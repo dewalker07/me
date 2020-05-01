@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><a href="!#">Web Developer at Athira Technologies</a> <span>2018-present</span></h2>
-                        <p>Over 1+Years of extensive experience as a Front-End UI Developer with solid understanding of HTML 5, CSS 3, JavaScript and the latest libraries or frameworks built up on the JavaScript like React JS.
+                        <h2><a href="!#">Web Developer at Athira Technologies</a> <span>2017-present</span></h2>
+                        <p>Over 2+Years of extensive experience as a Front-End UI Developer with solid understanding of HTML 5, CSS 3, JavaScript and the latest libraries or frameworks built up on the JavaScript like React JS.
                            Professional understanding of System development life cycle (SDLC) as well as various phases such as Analysis Design, Development and Testing.
                            Extensive knowledge in Single Page Application (SPA) development.
                            Super good experience on React.JS framework/library.
